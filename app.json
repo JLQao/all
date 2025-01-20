@@ -1,5 +1,5 @@
 {
-    "name": "سورس فريدوم",
+    "name": "سورس القياده وضاح ",
     "logo": "https://te.legra.ph/file/f7e1acf9338cc453a87ad.jpg",
     "description": "An Advanced Premium Music Bot For Telegram Groups VC.",
     "keywords": ["music", "voice chat", "telegram"],
@@ -7,25 +7,25 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "لاتغيرها ابدا",
+            "description": "8934899",
             "value": "8934899",
             "required": true
         },
         "API_HASH": {
-            "description": "لاتغيرها ابدا",
+            "description": "bf3e98d2c351e4ad06946b4897374a1e",
             "value": "bf3e98d2c351e4ad06946b4897374a1e", 
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "اكتب توكنك",
+            "description": "7980652158:AAFds8yaeuplKEIzUM1-wqLmuXaG-Ahx0yA",
             "required": true
         },
         "STRING_SESSION": {
-            "description": "كود بايروجرام : لازم تستخرجة من موقع فريدوم https://replit.com/@freedomSource/Session-Generator#main.py",
+            "description": "1BJWap1sBu2nMtTGwfY8Vwn0bPLFR0yW55fPbLpUfr8i53TQkt4mCyQLVRRJOWUOU0QESj_mwlTIDCW2xixUHLFyAzqmnmUfOw5tgJD7rtHo3htvqzTk96y6PgSYCzjXjn_MlKG20IzcLVi4PfSuF0FEBPhq_52qAawdJ_oHW8L44rj9S6qM0baBIAVHsQdLwqfvb43BESaAjT6YCezOa-eDCJApD_26HgeW9EYpz3Sp2ZSpKduljrWnwCzZ9l5H4rQOv1SqXogT7uHbfav8JpHkWFVBfN1THAx5eArMU3nBx-0oOeYvt9ZEVO8AZib-WcOPaDnm9fsSYyIeYUHKTYcu8JTq4e4s=",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": " معرف بوتك بدون @",
+            "description": "vxxvcbot",
             "required": true
         },
         "SUDO_USERS": {
@@ -35,12 +35,12 @@
         },
         "GROUP": {
             "description": "اكتب قناة البوت الثانية ، او اتركها كما هي",
-            "value": "xl444",
+            "value": "seesr",
             "required": true
         },
         "NETWORK": {
             "description": "اكتب قناة البوت ، او اتركها كما هي",
-           "value": "xl444",
+           "value": "seesr",
             "required": true
         },
         "MONGODB_URL": {
@@ -55,7 +55,7 @@
         },
         "OWNER_ID": {
             "description": "اكتب ايدي المالك ، او اتركها كما هي",
-            "value": "1854384004",
+            "value": "5060365449",
             "required": true 
         }
     },
